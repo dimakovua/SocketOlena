@@ -27,7 +27,8 @@ x64/
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
-
+cliento
+servero
 *_i.c
 *_p.c
 *_i.h
