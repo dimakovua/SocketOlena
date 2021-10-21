@@ -1,0 +1,21 @@
+Hello World!
+localhost connected on62437
+Recieved: Who
+Starting spliting
+Spliting completed!
+Answering: Created by Rak Olena. K-27. Variant 15. Sorting. Type a line of words or use File *filename* to get line from this file. Use # to stop.Recieved: There is nothing!
+Starting spliting
+Spliting completed!
+Answering: There is nothing!Recieved: There is nothing!
+Starting spliting
+Spliting completed!
+Answering: There is nothing!Recieved: There is nothing!
+Starting spliting
+Spliting completed!
+Answering: There is nothing!Recieved: There is nothing!
+Starting spliting
+Spliting completed!
+Answering: There is nothing!Recieved: a b d c
+Starting spliting
+Spliting completed!
+Answering: a b c d The client disconnected!
